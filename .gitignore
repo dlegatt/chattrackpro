@@ -20,6 +20,7 @@ vendor/
 Homestead.json
 Homestead.yaml
 .env
+.env-nodebug
 
 .DS_store
 bin/
